@@ -50,7 +50,7 @@ const Header = () => {
             <span>👋</span>
             <div style={{ marginLeft: 20 }}>
               <p className="p-text">Hello, welcome to</p>
-              <h1 className="head-text">WebWulfs</h1>
+              <h1 className="head-text">One Web</h1>
             </div>
           </motion.div>
 
@@ -60,7 +60,7 @@ const Header = () => {
             transition={{ duration: 0.5 }}
             style={{ transform: `translate(${cursorX},${cursorY})` }}
           >
-            <p className="p-text">Web & Mobile Dev</p>
+            <p className="p-text">Web Dev</p>
             <p className="p-text">Agency</p>
           </motion.div>
         </div>
